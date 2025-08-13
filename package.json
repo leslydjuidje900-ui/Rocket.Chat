@@ -45,7 +45,7 @@
 	"homepage": "https://github.com/RocketChat/Rocket.Chat#readme",
 	"engines": {
 		"yarn": "4.9.2",
-		"node": "22.16.0"
+		"node": "20.11.1"
 	},
 	"packageManager": "yarn@4.9.2",
 	"houston": {
